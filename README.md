@@ -1,27 +1,13 @@
 ### Hi there 👋
 
 
+## Software Security System Developer
 
 
-<!--
-
-현재 Infra / WAS 자동화 업무 담당
-
-
-# 이력
-
-## 수상내역
+## Experience / Career
 
 
 
-
-## 도전과제
-
- -[ ] 
- 
- 
- 
- -->
  
  <!--
 **s01va/s01va** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
