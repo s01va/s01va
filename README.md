@@ -4,8 +4,6 @@
 
 ### Experience / Career
 
-2022.1 
-
 **\[Career\]** 개발보안 파트 합류 (2022.1)
 
 **\[Career\]** 미들웨어 파트 합류 with DevOps  (2019.9)
