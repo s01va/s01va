@@ -1,10 +1,20 @@
 
-### Cybersecurity System Platform Developer
+## Cybersecurity System Platform Developer
 
 
 ### Experience / Career
 
+**\[Project\]** 서브도메인 탐지 프로세스 개발 (2024.1 ~) 
+
+**\[Project\]** Security onion을 응용한 룰 관리 시스템 개발 (2023.6 ~ 2023.10)
+
+**\[Project\]** SSL certificate 관리체계 구축 (2023.2 ~ 2023.8)
+
+**\[Project\]** 통합차단시스템 개발 (2022.1 ~ 2022.11)
+
 **\[Career\]** 개발보안 파트 합류 (2022.1)
+
+**\[Project\]** 인프라 자산 패치버전관리 시스템 개발 (2020.1 ~ 2021.10)
 
 **\[Career\]** 미들웨어 파트 합류 with DevOps  (2019.9)
 
@@ -22,18 +32,3 @@
 
 **\[Academic\]** 단국대학교 소프트웨어학과 재학 (2014.3 ~ 2019.2)
 
- 
- <!--
-**s01va/s01va** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
