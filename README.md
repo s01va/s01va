@@ -4,9 +4,9 @@
 
 ### Experience / Career
 
-**\[Project\]** 서브도메인 탐지 프로세스 개발 (2024.1 ~) 
+**\[Project\]** ASM: 도메인 기반 미식별 자산 탐지 프로세스 개발 (2024.1 ~) 
 
-**\[Project\]** Security onion을 응용한 룰 관리 시스템 개발 (2023.6 ~ 2023.10)
+**\[Project\]** Security onion 기반 내부IDS 내 룰 관리 시스템 개발 (2023.6 ~ 2023.10)
 
 **\[Project\]** SSL certificate 관리체계 구축 (2023.2 ~ 2023.8)
 
